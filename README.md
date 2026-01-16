@@ -26,6 +26,7 @@ This project demonstrates:
 
 ## Demo Video
 Video of the MVVM demonstration: https://youtu.be/jtj1JOPzzv0
+
 Video of screen recording (emulator): https://youtube.com/shorts/T-gbYrXbF7w?feature=share
 
 ---
