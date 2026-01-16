@@ -55,11 +55,6 @@ Video of screen recording (emulator): https://youtube.com/shorts/T-gbYrXbF7w?fea
 
 ---
 
-## Screenshots
-*(Optional: Add screenshots of your app running on an emulator or device here)*
-
----
-
 ## Dependencies
 - Kotlin 1.8+
 - Jetpack Compose 1.5+
