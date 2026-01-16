@@ -15,7 +15,6 @@ This project demonstrates:
 ## Features
 - **Product Selection:** Choose from a list of products with name, price, and available quantity.
 - **Quantity Input:** Enter quantities using an on-screen number pad.
-- **Cart System:** Add multiple products to the cart before payment.
 - **Total Calculation:** Automatic total price calculation for selected items.
 - **Payment:** Complete purchase and update inventory quantities.
 - **Purchase History:** View all completed purchases, including product, quantity, total amount, and timestamp.
